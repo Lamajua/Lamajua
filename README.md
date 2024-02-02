@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lamajua
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning java and taking cs50 course.
+- 🌱 I’m currently a Computer information systemm student at KAU.
 
 
 <!---
